@@ -1,6 +1,6 @@
 # Taxi Stop Application
 
-An C app that fixes taxi automating system of a university campus.
+A C application that fixes taxi automating system of a university campus.
 
 # What I Learned
 
